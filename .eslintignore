@@ -1,0 +1,11 @@
+build/*.js
+config/*.js
+src/assets
+src/components
+src/views/permission
+src/views/login
+src/views/components-demo
+src/views/layout/
+src/views/dashboard/
+src/views/errorPage/
+src/views/
